@@ -1,0 +1,7 @@
+[
+  { "fname": "John", "lname": "Doe", "age": "30", "emp_id": "001" },
+  { "fname": "Jane", "lname": "Smith", "age": "35", "emp_id": "002" },
+  { "fname": "Michael", "lname": "Johnson", "age": "28", "emp_id": "003" },
+  { "fname": "Emily", "lname": "Brown", "age": "32", "emp_id": "004" },
+  { "fname": "David", "lname": "Wilson", "age": "27", "emp_id": "005" }
+]
