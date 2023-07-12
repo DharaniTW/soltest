@@ -1,0 +1,9 @@
+1. Ordering a Specific Type of Cuisine:
+       Zomato.<country>.cuisine.<cuisine_name> (e.g., Zomato.India.cuisine.Italian)
+	   
+2. Ordering from a Specific Type of Restaurants:
+       Zomato.<country>.restaurants.<restaurant_type> (e.g., Zomato.India.restaurants.Cafe)
+	   
+3. Ordering from a Specific Zip Code/Pincode:
+       Zomato.<country>.zipcode.<zipcode> (e.g., Zomato.India.zipcode.400001)	   
+	   
